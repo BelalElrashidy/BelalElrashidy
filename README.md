@@ -9,7 +9,7 @@ I'm a passionate Software engineer, focused on creating impactful solutions thro
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanoub-s-farhan-045430265/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belal-elrashidy-5b012a1b6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebo.elrashidy22@gmail.com)
 
 ## GitHub Stats
@@ -31,13 +31,13 @@ I'm a passionate Software engineer, focused on creating impactful solutions thro
 ### Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Web Development" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,py" alt="Web Development" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,django,flask,nextjs" alt="Web Development" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,django,flask,nextjs,laravel,vue" alt="Web Development" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,redis" alt="Web Development" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Web Development" />
   </a>
 </p>
 
